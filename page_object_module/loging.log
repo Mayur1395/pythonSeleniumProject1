@@ -1,0 +1,20 @@
+2022-03-04 12:17:34,690 :INFO :page_object_module.baseclass :information statement
+2022-03-04 12:17:34,691 :WARNING :page_object_module.baseclass :something is warning in mode
+2022-03-04 12:17:34,691 :ERROR :page_object_module.baseclass :error is found
+2022-03-04 12:17:34,691 :CRITICAL :page_object_module.baseclass :critical issue
+2022-03-04 12:30:05,043 :INFO :page_object_module.baseclass :information statement
+2022-03-04 12:30:05,044 :WARNING :page_object_module.baseclass :something is warning in mode
+2022-03-04 12:30:05,044 :ERROR :page_object_module.baseclass :error is found
+2022-03-04 12:30:05,045 :CRITICAL :page_object_module.baseclass :critical issue
+2022-03-04 15:12:20,904 :INFO :page_object_module.baseclass :information statement
+2022-03-04 15:12:20,905 :WARNING :page_object_module.baseclass :something is warning in mode
+2022-03-04 15:12:20,906 :ERROR :page_object_module.baseclass :error is found
+2022-03-04 15:12:20,906 :CRITICAL :page_object_module.baseclass :critical issue
+2022-03-04 15:41:19,540 :INFO :page_object_module.baseclass :information statement
+2022-03-04 15:41:19,541 :WARNING :page_object_module.baseclass :something is warning in mode
+2022-03-04 15:41:19,542 :ERROR :page_object_module.baseclass :error is found
+2022-03-04 15:41:19,542 :CRITICAL :page_object_module.baseclass :critical issue
+2022-03-07 10:45:21,578 :INFO :page_object_module.baseclass :information statement
+2022-03-07 10:45:21,582 :WARNING :page_object_module.baseclass :something is warning in mode
+2022-03-07 10:45:21,583 :ERROR :page_object_module.baseclass :error is found
+2022-03-07 10:45:21,583 :CRITICAL :page_object_module.baseclass :critical issue
