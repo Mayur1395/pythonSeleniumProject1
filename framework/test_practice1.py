@@ -13,7 +13,7 @@ class Test1():
 
     def test_method2(self,test_setup):
         name = "mayur"
-        assert name == "ashwin", "if not matched test case is failed"
+        assert name == "mayur", "if not matched test case is failed"
 
 
 
